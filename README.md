@@ -7,7 +7,7 @@ Readings:
 
 - our proposal for using music in the classroom to help teach the communications theory behind Sprite's communications with ground stations. https://docs.google.com/document/d/1jvAutZOK-oTKVhUwr3GIXUakZ8oVpEgYwVftfqEvYD4/edit
 
-- presentation slides including some other ideas:
+- presentation slides including some other ideas: https://docs.google.com/presentation/d/1SuPp06Mu9vdNHGf4Ls2tTCGeB2S8RchysAYGBmpC6fI/edit#slide=id.gabd0677b_081
 
    Build a kit for field trips on which students simulate communication between atmosphere and orbit by splitting up, climbing to two different mountain peaks, and transmitting between them. 
    
