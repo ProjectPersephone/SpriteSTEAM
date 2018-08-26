@@ -13,5 +13,5 @@ Readings:
    
    Write instructions for mounting a sprite on the cap of a pen (or if necessary, some larger writing device) -- see if it can digitize writing using the accelerometers and perhaps send the scribbles as signals. (Other games are possible, like hide-and-seek with accelerometer-based map-clues going to the seeker from Sprites planted on hiders' bodies.)
    
-   Build a kit for synchronized drop of a Sprite inside a box as the box is dropped from a multistory building -- microgravity demonstrated by accelerometer reading changes.
+   Build a kit for synchronized drop of a Sprite inside a box as the box is dropped from a multistory building -- microgravity demonstrated by accelerometer, reading changes during flight. Compare these readings with just dropping an unboxed Sprite the same distance to land on a cushion. Spin the sprite edgewise to the drop, then again facing the direction of the drop, to observe the differences in ballistic coefficient, as part of explaining the deorbiting of a Sprite that's been spun up to keep facing the sun.
 
